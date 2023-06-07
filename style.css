@@ -1,0 +1,7 @@
+*{
+    box-sizing: border-box;
+}
+.box{
+    height: 297px;
+    background-color:#7B4141;
+}
